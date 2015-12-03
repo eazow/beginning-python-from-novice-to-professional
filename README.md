@@ -1,1 +1,1 @@
-# beginning-python-from-novice-to-professional
+# Beginning Python From Novice to Professional
